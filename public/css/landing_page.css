@@ -1,0 +1,30 @@
+.carousel-item {
+    height: 100vh;
+    min-height: 350px;
+    background: no-repeat center center scroll;
+    -webkit-background-size: cover;
+    -moz-background-size: cover;
+    -o-background-size: cover;
+    background-size: cover;
+  }
+  section {
+    padding-top: 5rem;
+    padding-bottom: 5rem;
+  }
+  
+  .lnr {
+    display: inline-block;
+    fill: currentColor;
+    width: 1em;
+    height: 1em;
+    vertical-align: -0.05em;
+    stroke-width: 1;
+  }
+  
+  .lnr-car {
+    color: #0F52BA;
+    font-size: 80px;
+  }
+
+
+ 
