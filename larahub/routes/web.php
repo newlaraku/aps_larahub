@@ -70,3 +70,8 @@ Route::get('/qrcode/{id}', [DataController::class, 'generate'])->name('generate'
 Route::get('/scan qrcode traking angkutan pelajar gratis dinas perhubungan', function(){
     return view('traking_angkutan.scan');
 });
+
+//hallo test comiit
+Route::get('/test comit', function(){
+    return view('traking_angkutan.scan');
+});
