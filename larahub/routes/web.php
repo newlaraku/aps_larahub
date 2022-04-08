@@ -48,7 +48,7 @@ Route::get('/trayek dishub banyuwangi','TrayekDishubController@index');
 Route::get('/tambah_trayek','TrayekDishubController@create');
 Route::post('/insert_trayek','TrayekDishubController@insert');
 
-Route::get('/show_trayek/{id}', 'TrayekDishubController@show');
+Route::get('/angkutan pelajar dan umum gratis/{id}', 'TrayekDishubController@show');
 
 
 
